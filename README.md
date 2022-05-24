@@ -1,3 +1,5 @@
-# reisetech-live2-samole-repo
+# reisetech-live3-samole-repo
 
-- これかな
+# 講義3
+- 動画を見ながらエラー検索しながらたどり着きました
+- 内容自体はよくわかってないですけど一応このような結果が出ました。
