@@ -16,4 +16,3 @@
 - リモートリポジトリに変更を書き込む.
 - git pull [remote repository PATH] [branch]
 - リモートリポジトリの変更を取り込む.
-- 
