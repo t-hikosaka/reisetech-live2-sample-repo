@@ -1,4 +1,4 @@
-# reisetech-live3-samole-repo
+# reisetech-live2-samole-repo
 
 - git add [filename]
 - ファイルやディレクトリをインデックスに登録.
