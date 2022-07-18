@@ -1,2 +1,7 @@
-# reisetech-live2-samole-repo
-- 簡単ですが
+# reisetech-live4-samole-repo
+
+## 第4回課題提出
+- 最初は全く分からなかったけど
+- 先生に聞きながら進めてやっと理解できるようになりました。
+- git を忘れかけてる・・・・
+- test
