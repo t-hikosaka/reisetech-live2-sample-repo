@@ -1,7 +1,2 @@
-# reisetech-live4-samole-repo
-
- lecture03
-# 講義3
-- 動画を見ながらエラー検索しながらたどり着きました
-- 内容自体はよくわかってないですけど一応このような結果が出ました。
-- 第二回の復習も含めて
+# reisetech-live2-samole-repo
+- テスト
